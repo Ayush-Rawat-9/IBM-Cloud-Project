@@ -19,3 +19,6 @@ model's precision, recall, and F1-scores were all high. The model's ability to c
 like tool wear, heat loss, and power failure was validated by evaluation metrics and visualizations like the 
 confusion matrix and feature importance plot. With IBM Watson Machine Learning, the finished model 
 was effectively implemented as a REST API for real-time prediction.
+
+# Resources Used
+IBM Cloud Object Storage & Watson Machine Learning – IBM Cloud Services.
